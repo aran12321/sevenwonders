@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Seven Wonders of the World</title>
+  <link rel="stylesheet" href="style.css"></link>
+	<style>
+		h1 {
+			text-align: center;
+			font-size: 36px;
+			margin-top: 20px;
+		}
+
+		.wonder {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-top: 50px;
+			margin-bottom: 50px;
+		}
+
+		.wonder img {
+			width: 300px;
+			height: 200px;
+			object-fit: cover;
+			border-radius: 10px;
+			box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+		}
+
+		.wonder h2 {
+			font-size: 24px;
+			margin-top: 20px;
+			margin-bottom: 10px;
+		}
+
+		.wonder p {
+			font-size: 18px;
+			text-align: center;
+			line-height: 1.5;
+			margin: 0px 20px;
+		}
+    
+    body{
+  background:olivedrab;
+  color:lightgoldenrodyellow;
+}
+h2{
+  text-decoration:underline;
+}
+h1{
+  text-decoration:underline;
+}
+	</style>
+</head>
+<body>
+	<h1>Seven Wonders of the World</h1>
+	<div class="wonder">
+		<img src="https://th.bing.com/th/id/OIP.6NKA5RqwKgNgBIyGHQDOyAHaFj?w=217&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+		<h2>Great Wall of China</h2>
+		<p>The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.</p>
+	</div>
+	<div class="wonder">
+		<img src="https://th.bing.com/th/id/OPAN.F123F23AFFBCFA69F2BACE3F38316EDC?w=388&h=180&c=8&rs=1&pid=Attractions">
+		<h2>Machu Picchu</h2>
+		<p>Machu Picchu is a 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level. It is located in the Cusco Region, Urubamba Province, Machupicchu District in Peru, above the Sacred Valley, which is 80 kilometres (50 mi) northwest of Cuzco.</p>
+	</div>
+	<div class="wonder">
+		<img src="https://th.bing.com/th/id/OIP.1ePJ1Swcneeh49m7kytC0gHaE9?w=286&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+		<h2>Chichen Itza</h2>
+		<p>Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archaeological site is located in Tinúm Municipality, Yucatán State, Mexico.</p>
+	</div>
+	<div class="wonder">
+		<img src="https://th.bing.com/th/id/OIP.zdLU4BlhWkzVyzv5mAgwCgHaE6?w=306&h=203&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+		<h2>Taj Mahal</h2>
+		<p>The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (reigned 1628–1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+  </div>
+  <div class="wonder">
+    <img src="https://th.bing.com/th/id/OIP.4LVhAxeUdPZ4H8ehgBzBmgHaE4?w=273&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+    <h2>Christ the Redeemer</h2>
+    <p>Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida sculpted the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal. The arms stretch 28 metres (92 ft) wide. It is made of reinforced concrete and soapstone. Christ the Redeemer differs considerably from its original design, as the initial plan was a large Christ with a globe in one hand and a cross in the other. Although the project organisers originally accepted the design, it later changed to the statue of today, with the arms spread out wide.</phttps://www.bing.com/images/search?view=detailV2&ccid=gNZgzcLz&id=D936EB63954AC7E5D794A07898F15EAFB667E0EA&thid=OIP.gNZgzcLzsARwTEtP4Mh_NwHaEk&mediaurl=https%3a%2f%2fwww.onthegotours.com%2fblog%2fwp-content%2fuploads%2f2015%2f05%2fTreasury-dreamstime_xxl_52702433-crop.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.80d660cdc2f3b004704c4b4fe0c87f37%3frik%3d6uBntq9e8Zh4oA%26pid%3dImgRaw%26r%3d0&exph=2472&expw=4000&q=petra&simid=608034663711923050&FORM=IRPRST&ck=E5C4366BEB92EFAB83743C66FE1B206B&selectedIndex=1>
+  </div>
+  <div class="wonder">
+    <img src="https://th.bing.com/th/id/OIP.1z-Kw1ZE5c0sKL39Fy37jQHaEy?w=267&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7">
+    <h2>The Colosseum </h2>
+    <p>The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age. Construction began under the emperor Vespasian in 72 and was completed in 80 AD under his successor and heir, Titus. Further modifications were made during the reign of Domitian.</p>
+  </div>
+  <div class="wonder">
+  <img src="https://tse1.mm.bing.net/th?&id=OVP.hNkqIu2qgTswMIKQsynwgQEsDH&w=253&h=180&c=7&pid=2.1&rs=1">
+    <h2>Petra </h2>
+    <p>Petra , originally known to its inhabitants as Raqmu or Raqēmō, is a historic and archaeological city in southern Jordan. It is adjacent to the mountain of Jabal Al-Madbah, in a basin surrounded by mountains forming the eastern flank of the Arabah valley running from the Dead Sea to the Gulf of Aqaba. The area around Petra has been inhabited from as early as 7000 BC, and the Nabataeans might have settled in what would become the capital city of their kingdom as early as the 4th century BC. Archaeological work has only discovered evidence of Nabataean presence dating back to the second century BC, by which time Petra had become their capital. The Nabataeans were nomadic Arabs who invested in Petra's proximity to the incense trade routes by establishing it as a major regional trading hub.</p>
+  </div>
